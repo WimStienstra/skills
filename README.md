@@ -20,6 +20,12 @@ Run any question, idea, or decision through a council of 5 independent AI adviso
 
 **Invoke:** `/llm-council` — or just say `council this`, `run the council`, `pressure-test this`
 
+### `truth-accuracy`
+
+Enforce strict epistemic standards in every response: flag uncertainty, avoid invented sources or APIs, mark unverified statistics, warn about knowledge cutoff limits, and ask before filling logical gaps.
+
+**Invoke:** `/truth-accuracy` — or just say `be accurate`, `truth mode`, `no hallucinations`, `fact check mode`
+
 ## License
 
 MIT
