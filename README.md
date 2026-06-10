@@ -2,12 +2,12 @@
 
 A collection of reusable AI agent skills you can install into Claude Code, GitHub Copilot, Cursor, and [70+ other agents](https://skills.sh/docs/cli#supported-agents).
 
-[![skills.sh](https://skills.sh/b/WimStienstra/Wim-skill-collection)](https://skills.sh/WimStienstra/Wim-skill-collection)
+[![skills.sh](https://skills.sh/b/WimStienstra/skills)](https://skills.sh/WimStienstra/skills)
 
 ## Install
 
 ```bash
-npx skills@latest add WimStienstra/Wim-skill-collection
+npx skills@latest add WimStienstra/skills
 ```
 
 Pick the skills you want and choose which agents to install them to. Done.
